@@ -3,7 +3,7 @@
 Randomized trials of [prediabetes] that compare [vitamin D] to placebo.
 
 ## Reconciliation tables
-* [Comparison of included studies with prior systematic reviews](../reconciliation-tables)
+* [Comparison of included studies with prior systematic reviews](../reconciliation-tables/Reconciliation%20of%20studies.pdf)
 
 ## PubMed
 <!--
