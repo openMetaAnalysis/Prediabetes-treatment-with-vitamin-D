@@ -1,8 +1,8 @@
-Template: clinical question
+Prediabetes treatment with vitamin D
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: https://openmetaanalysis.github.io/prediabetes
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
 
