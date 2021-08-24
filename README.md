@@ -38,13 +38,13 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, Rizk F, Alkasasbeh M, Bachuwa G, Manson JE. Effect of Vitamin D Supplementation on the Incidence of Diabetes Mellitus. J Clin Endocrinol Metab. 2020 Aug 1;105(8):dgaa335. doi: 10.1210/clinem/dgaa335. PMID: [32491181](http://pubmed.gov/32491181).
+1. Kahwati LC, LeBlanc E, Weber RP, Giger K, Clark R, Suvada K, Guisinger A, Viswanathan M. Screening for Vitamin D Deficiency in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2021 Apr 13;325(14):1443-1463. doi: 10.1001/jama.2020.26498. PMID: [33847712](http://pubmed.gov/33847712) * Did not limit to patients with prediabetes* 
+2. Barbarawi M, Zayed Y, Barbarawi O, Bala A, Alabdouh A, Gakhal I, Rizk F, Alkasasbeh M, Bachuwa G, Manson JE. Effect of Vitamin D Supplementation on the Incidence of Diabetes Mellitus. J Clin Endocrinol Metab. 2020 Aug 1;105(8):dgaa335. doi: 10.1210/clinem/dgaa335. PMID: [32491181](http://pubmed.gov/32491181).
+3. Zhang Y, Tan H, Tang J, Li J, Chong W, Hai Y, Feng Y, Lunsford LD, Xu P, Jia D, Fang F. Effects of Vitamin D Supplementation on Prevention of Type 2 Diabetes in Patients With Prediabetes: A Systematic Review and Meta-analysis. Diabetes Care. 2020 Jul;43(7):1650-1658. doi: 10.2337/dc19-1708. PMID: [33534730](http://pubmed.gov/33534730).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Kahwati LC, LeBlanc E, Weber RP, Giger K, Clark R, Suvada K, Guisinger A, Viswanathan M. Screening for Vitamin D Deficiency in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2021 Apr 13;325(14):1443-1463. doi: 10.1001/jama.2020.26498. PMID: [33847712](http://pubmed.gov/33847712) * Did not limit to patients with prediabetes* 
-2. Bhatt SP, Misra A, Pandey RM, Upadhyay AD, Gulati S, Singh N. Vitamin D Supplementation in Overweight/obese Asian Indian Women with Prediabetes Reduces Glycemic Measures and Truncal Subcutaneous Fat: A 78 Weeks Randomized Placebo-Controlled Trial (PREVENT-WIN Trial). Sci Rep. 2020 Jan 14;10(1):220. doi: 10.1038/s41598-019-56904-y. Erratum in: Sci Rep. 2020 Jun 12;10(1):9844. PMID: [31937856](http://pubmed.gov/31937856).
-3. Zhang Y, Tan H, Tang J, Li J, Chong W, Hai Y, Feng Y, Lunsford LD, Xu P, Jia D, Fang F. Effects of Vitamin D Supplementation on Prevention of Type 2 Diabetes in Patients With Prediabetes: A Systematic Review and Meta-analysis. Diabetes Care. 2020 Jul;43(7):1650-1658. doi: 10.2337/dc19-1708. PMID: [33534730](http://pubmed.gov/33534730).
+1. Bhatt SP, Misra A, Pandey RM, Upadhyay AD, Gulati S, Singh N. Vitamin D Supplementation in Overweight/obese Asian Indian Women with Prediabetes Reduces Glycemic Measures and Truncal Subcutaneous Fat: A 78 Weeks Randomized Placebo-Controlled Trial (PREVENT-WIN Trial). Sci Rep. 2020 Jan 14;10(1):220. doi: 10.1038/s41598-019-56904-y. Erratum in: Sci Rep. 2020 Jun 12;10(1):9844. PMID: [31937856](http://pubmed.gov/31937856).
 
 #### Trial(s) included in the review above
 1. Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, Brodsky I, Ceglia L, Chadha C, Chatterjee R, Desouza C, Dolor R, Foreyt J, Fuss P, Ghazi A, Hsia DS, Johnson KC, Kashyap SR, Kim S, LeBlanc ES, Lewis MR, Liao E, Neff LM, Nelson J, O'Neil P, Park J, Peters A, Phillips LS, Pratley R, Raskin P, Rasouli N, Robbins D, Rosen C, Vickery EM, Staten M; D2d Research Group. Vitamin D Supplementation and Prevention of Type 2 Diabetes. N Engl J Med. 2019 Aug 8;381(6):520-530. doi: 10.1056/NEJMoa1900906. Epub 2019 Jun 7. PMID: [31173679](http://pubmed.gov/31173679).
@@ -53,7 +53,6 @@ References:
 4.
 5.
 6.
-
 
 #### Trial(s) undergoing review
 None
