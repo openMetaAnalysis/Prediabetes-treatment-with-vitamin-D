@@ -61,6 +61,9 @@ References:
 #### Trial(s) undergoing review
 1. Kawahara T, Suzuki G, Mizuno S, Inazu T, Kasagi F, Kawahara C, Okada Y, Tanaka Y. Effect of active vitamin D treatment on development of type 2 diabetes: DPVD randomised controlled trial in Japanese population. BMJ. 2022 May 25;377:e066222. doi: 10.1136/bmj-2021-066222. PMID: [35613725](http://pubmed.gov/35613725).
 
+#### Systematic review(s) undergoing review
+Pittas AG, Kawahara T, Jorde R, Dawson-Hughes B, Vickery EM, Angellotti E, Nelson J, Trikalinos TA, Balk EM. Vitamin D and Risk for Type 2 Diabetes in People With Prediabetes : A Systematic Review and Meta-analysis of Individual Participant Data From 3 Randomized Clinical Trials. Ann Intern Med. 2023 Mar;176(3):355-363. doi: 10.7326/M22-3018. Epub 2023 Feb 7. PMID: [36745886](http://pubmed.gov/36745886).
+
 #### Trial(s) excluded - selected list of important trial(s)
 1. Bhatt SP, Misra A, Pandey RM, Upadhyay AD, Gulati S, Singh N. Vitamin D Supplementation in Overweight/obese Asian Indian Women with Prediabetes Reduces Glycemic Measures and Truncal Subcutaneous Fat: A 78 Weeks Randomized Placebo-Controlled Trial (PREVENT-WIN Trial). Sci Rep. 2020 Jan 14;10(1):220. doi: 10.1038/s41598-019-56904-y. Erratum in: Sci Rep. 2020 Jun 12;10(1):9844. PMID: [31937856](http://pubmed.gov/31937856). *We could not confidently extract diabetes outcome counts using outcomes rates provided*
 
